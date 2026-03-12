@@ -1,0 +1,9 @@
+{
+  "name": "npc-map",
+  "version": "1.0",
+  "description": "Show NPC map locations",
+  "options": {
+    "niceName": "NPC Map",
+	"reloadable": true
+  }
+}

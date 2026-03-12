@@ -1,0 +1,1236 @@
+{
+  "String": [
+    {
+      "id": 1,
+      "string": "Ruinweald "
+    },
+    {
+      "id": 2,
+      "string": "Fey Forest"
+    },
+    {
+      "id": 3,
+      "string": "Oblivion Woods"
+    },
+    {
+      "id": 4,
+      "string": "Fyrmount"
+    },
+    {
+      "id": 5,
+      "string": "Tuwangi Mire"
+    },
+    {
+      "id": 6,
+      "string": "Valley of Titans"
+    },
+    {
+      "id": 7,
+      "string": "Celestial Hills"
+    },
+    {
+      "id": 8,
+      "string": "Hungry Caverns"
+    },
+    {
+      "id": 9,
+      "string": "Ascension Valley"
+    },
+    {
+      "id": 10,
+      "string": "Serpentis Isle"
+    },
+    {
+      "id": 11,
+      "string": "Jagged Coast"
+    },
+    {
+      "id": 12,
+      "string": "Mistmoor Island"
+    },
+    {
+      "id": 13,
+      "string": "Island of Dawn"
+    },
+    {
+      "id": 15,
+      "string": "Cliffs of Insanity"
+    },
+    {
+      "id": 16,
+      "string": "Vale of the Fang"
+    },
+    {
+      "id": 17,
+      "string": "Paraanon Ravine"
+    },
+    {
+      "id": 18,
+      "string": "Colossal Ruins"
+    },
+    {
+      "id": 19,
+      "string": "Freeholds"
+    },
+    {
+      "id": 20,
+      "string": "Tenebrous Mines"
+    },
+    {
+      "id": 21,
+      "string": "Basilisk Crag"
+    },
+    {
+      "id": 22,
+      "string": "Eldritch Academy Grounds"
+    },
+    {
+      "id": 23,
+      "string": "Lake of Tears"
+    },
+    {
+      "id": 24,
+      "string": "Aurum Road"
+    },
+    {
+      "id": 25,
+      "string": "Dark Cathedral"
+    },
+    {
+      "id": 26,
+      "string": "Blessing Basin"
+    },
+    {
+      "id": 27,
+      "string": "Essenian Crest"
+    },
+    {
+      "id": 28,
+      "string": "Blightwood"
+    },
+    {
+      "id": 29,
+      "string": "Timeless Woods"
+    },
+    {
+      "id": 30,
+      "string": "Balder's Refuge"
+    },
+    {
+      "id": 31,
+      "string": "Tempest Reach"
+    },
+    {
+      "id": 32,
+      "string": "Mount Tyrannas"
+    },
+    {
+      "id": 33,
+      "string": "Citadel of Torment"
+    },
+    {
+      "id": 34,
+      "string": "Frost Reach"
+    },
+    {
+      "id": 35,
+      "string": "Wyrmgorge"
+    },
+    {
+      "id": 36,
+      "string": "Tor Exsul"
+    },
+    {
+      "id": 37,
+      "string": "Doomcrypt"
+    },
+    {
+      "id": 38,
+      "string": "Sienna Canyon"
+    },
+    {
+      "id": 39,
+      "string": "Arachnaea"
+    },
+    {
+      "id": 40,
+      "string": "Quarantine Zone"
+    },
+    {
+      "id": 41,
+      "string": "Feral Valley"
+    },
+    {
+      "id": 42,
+      "string": "Temple of Dagon"
+    },
+    {
+      "id": 43,
+      "string": "Cathuulrach"
+    },
+    {
+      "id": 44,
+      "string": "Ebonmaw"
+    },
+    {
+      "id": 45,
+      "string": "Thrallhold"
+    },
+    {
+      "id": 46,
+      "string": "Three Towers"
+    },
+    {
+      "id": 47,
+      "string": "Tirkai Forest"
+    },
+    {
+      "id": 48,
+      "string": "Khanovar Front"
+    },
+    {
+      "id": 49,
+      "string": "Argonea"
+    },
+    {
+      "id": 50,
+      "string": "Granarkus"
+    },
+    {
+      "id": 51,
+      "string": "Vale of Spires"
+    },
+    {
+      "id": 52,
+      "string": "Plain of the Damned"
+    },
+    {
+      "id": 53,
+      "string": "Labyrinth of Terror"
+    },
+    {
+      "id": 54,
+      "string": "Seeliewood"
+    },
+    {
+      "id": 55,
+      "string": "Darkquaver Woods"
+    },
+    {
+      "id": 56,
+      "string": "Susurrus Woods"
+    },
+    {
+      "id": 57,
+      "string": "Amena Quatla"
+    },
+    {
+      "id": 58,
+      "string": "Balderon"
+    },
+    {
+      "id": 59,
+      "string": "Crescentia"
+    },
+    {
+      "id": 60,
+      "string": "Lumbertown"
+    },
+    {
+      "id": 61,
+      "string": "Castanica"
+    },
+    {
+      "id": 62,
+      "string": "Cutthroat Harbor"
+    },
+    {
+      "id": 63,
+      "string": "Velika"
+    },
+    {
+      "id": 64,
+      "string": "Tower Base"
+    },
+    {
+      "id": 65,
+      "string": "Chebika"
+    },
+    {
+      "id": 66,
+      "string": "Tulufan"
+    },
+    {
+      "id": 67,
+      "string": "Popolion"
+    },
+    {
+      "id": 68,
+      "string": "Pora Elinu"
+    },
+    {
+      "id": 69,
+      "string": "Tralion"
+    },
+    {
+      "id": 70,
+      "string": "Tria"
+    },
+    {
+      "id": 71,
+      "string": "Bastion"
+    },
+    {
+      "id": 72,
+      "string": "Allemantheia"
+    },
+    {
+      "id": 73,
+      "string": "Acarum"
+    },
+    {
+      "id": 74,
+      "string": "Elenea"
+    },
+    {
+      "id": 75,
+      "string": "Frontera"
+    },
+    {
+      "id": 76,
+      "string": "Kanstria"
+    },
+    {
+      "id": 77,
+      "string": "Pathfinder Post"
+    },
+    {
+      "id": 78,
+      "string": "Zulfikar Fortress"
+    },
+    {
+      "id": 79,
+      "string": "Habere"
+    },
+    {
+      "id": 80,
+      "string": "Dragonfall"
+    },
+    {
+      "id": 81,
+      "string": "Scythera Fae"
+    },
+    {
+      "id": 83,
+      "string": "Bleakrock"
+    },
+    {
+      "id": 84,
+      "string": "Kaiator"
+    },
+    {
+      "id": 85,
+      "string": "Davarn's Refuge"
+    },
+    {
+      "id": 121,
+      "string": "Free Traders Territory"
+    },
+    {
+      "id": 122,
+      "string": "Enlightened Union Territory"
+    },
+    {
+      "id": 123,
+      "string": "Iron Order Territory"
+    },
+    {
+      "id": 124,
+      "string": "Vault of Seas"
+    },
+    {
+      "id": 125,
+      "string": "Vault of Winter"
+    },
+    {
+      "id": 126,
+      "string": "Pit of Petrax"
+    },
+    {
+      "id": 127,
+      "string": "Vault of Allies"
+    },
+    {
+      "id": 151,
+      "string": "Noctenium Research Grounds"
+    },
+    {
+      "id": 152,
+      "string": "Civil Unrest: Velika"
+    },
+    {
+      "id": 154,
+      "string": "Civil Unrest: Island of Dawn"
+    },
+    {
+      "id": 159,
+      "string": "Civil Unrest: Colossal Ruins"
+    },
+    {
+      "id": 160,
+      "string": "Civil Unrest: Spring Valley"
+    },
+    {
+      "id": 162,
+      "string": "Coastal Battleground"
+    },
+    {
+      "id": 183,
+      "string": "Highwatch"
+    },
+    {
+      "id": 975,
+      "string": "Kelsaik's Raid (20-Person Raid)"
+    },
+    {
+      "id": 911,
+      "string": "Kelsaik's Raid (10-Person Raid) "
+    },
+    {
+      "id": 401,
+      "string": "Samael's Residence"
+    },
+    {
+      "id": 402,
+      "string": "Fountain of Shara"
+    },
+    {
+      "id": 403,
+      "string": "Fyrmount Abyss"
+    },
+    {
+      "id": 404,
+      "string": "Highlands of the Beast"
+    },
+    {
+      "id": 405,
+      "string": "Crypt of Restraint"
+    },
+    {
+      "id": 407,
+      "string": "Hidden Shrine"
+    },
+    {
+      "id": 408,
+      "string": "Malachai's Lab"
+    },
+    {
+      "id": 410,
+      "string": "Kaiator Headquarters"
+    },
+    {
+      "id": 411,
+      "string": "Workshop of the Blacksmith"
+    },
+    {
+      "id": 412,
+      "string": "Three Towers Spires"
+    },
+    {
+      "id": 413,
+      "string": "Argon Commanding Fortress"
+    },
+    {
+      "id": 414,
+      "string": "Khanovar Gauntlet"
+    },
+    {
+      "id": 416,
+      "string": "Island of Dawn (Prologue)"
+    },
+    {
+      "id": 417,
+      "string": "Lighthouse of the Sun"
+    },
+    {
+      "id": 418,
+      "string": "Frontline Underground Tunnel"
+    },
+    {
+      "id": 419,
+      "string": "Hills of Divine Knowledge"
+    },
+    {
+      "id": 421,
+      "string": "Tenebrous Mines"
+    },
+    {
+      "id": 422,
+      "string": "Colossal Ruins"
+    },
+    {
+      "id": 423,
+      "string": "Azarel's Labyrinth"
+    },
+    {
+      "id": 424,
+      "string": "Fane of Kaprima"
+    },
+    {
+      "id": 425,
+      "string": "Balder's Temple"
+    },
+    {
+      "id": 426,
+      "string": "Argon Corpus"
+    },
+    {
+      "id": 427,
+      "string": "The Plexus (Hard)"
+    },
+    {
+      "id": 428,
+      "string": "Malachai's Lab"
+    },
+    {
+      "id": 436,
+      "string": "Karascha's Lair"
+    },
+    {
+      "id": 437,
+      "string": "Tainted Gorge Bridge"
+    },
+    {
+      "id": 438,
+      "string": "Mysterious Jungle"
+    },
+    {
+      "id": 439,
+      "string": "Caravan Ambush Site"
+    },
+    {
+      "id": 440,
+      "string": "Velika Plaza"
+    },
+    {
+      "id": 441,
+      "string": "Velika Eastern Gate"
+    },
+    {
+      "id": 442,
+      "string": "Velika Headquarters"
+    },
+    {
+      "id": 443,
+      "string": "Wonderholme (Hard)"
+    },
+    {
+      "id": 445,
+      "string": "Bluefirst Mountain"
+    },
+    {
+      "id": 446,
+      "string": "Accursed Oasis"
+    },
+    {
+      "id": 447,
+      "string": "Harvest Festival Hall"
+    },
+    {
+      "id": 451,
+      "string": "Squalid Temple"
+    },
+    {
+      "id": 452,
+      "string": "Banquet of Blood"
+    },
+    {
+      "id": 453,
+      "string": "Kezzel's Gorge"
+    },
+    {
+      "id": 455,
+      "string": "Ravenous Gorge"
+    },
+    {
+      "id": 461,
+      "string": "Ruin of the Giants"
+    },
+    {
+      "id": 462,
+      "string": "Jester's Villa"
+    },
+    {
+      "id": 463,
+      "string": "Susurrus Woods"
+    },
+    {
+      "id": 464,
+      "string": "Molten Chamber"
+    },
+    {
+      "id": 465,
+      "string": "Twilight Valley"
+    },
+    {
+      "id": 469,
+      "string": "Castle Aranea"
+    },
+    {
+      "id": 471,
+      "string": "Necromancer Tomb"
+    },
+    {
+      "id": 472,
+      "string": "Golden Labyrinth"
+    },
+    {
+      "id": 473,
+      "string": "Ebon Tower"
+    },
+    {
+      "id": 474,
+      "string": "Sanctum of Resurrection"
+    },
+    {
+      "id": 475,
+      "string": "Kelsaik's Nest"
+    },
+    {
+      "id": 476,
+      "string": "Labyrinth of Terror"
+    },
+    {
+      "id": 477,
+      "string": "Batu Desert"
+    },
+    {
+      "id": 478,
+      "string": "Suryati's Peak"
+    },
+    {
+      "id": 479,
+      "string": "Saravash's Ascent"
+    },
+    {
+      "id": 480,
+      "string": "Sigil Adstringo"
+    },
+    {
+      "id": 481,
+      "string": "Training Grounds"
+    },
+    {
+      "id": 482,
+      "string": "Temple of Temerity"
+    },
+    {
+      "id": 483,
+      "string": "Breaching Grounds"
+    },
+    {
+      "id": 487,
+      "string": "Bastion of Lok"
+    },
+    {
+      "id": 488,
+      "string": "Sinestral Manor"
+    },
+    {
+      "id": 489,
+      "string": "Cultists' Refuge"
+    },
+    {
+      "id": 490,
+      "string": "Woodland Path"
+    },
+    {
+      "id": 491,
+      "string": "Altar of Vadoma"
+    },
+    {
+      "id": 492,
+      "string": "Dagon's Chantry"
+    },
+    {
+      "id": 493,
+      "string": "Akasha's Hideout"
+    },
+    {
+      "id": 494,
+      "string": "Saleron's Sky Garden"
+    },
+    {
+      "id": 495,
+      "string": "Crucible of Flame"
+    },
+    {
+      "id": 496,
+      "string": "Sirjuka Gallery"
+    },
+    {
+      "id": 569,
+      "string": "Castle Aranea"
+    },
+    {
+      "id": 724,
+      "string": "Fane of Kaprima (Hard)"
+    },
+    {
+      "id": 725,
+      "string": "Balder's Temple (Hard)"
+    },
+    {
+      "id": 726,
+      "string": "Argon Corpus (Hard)"
+    },
+    {
+      "id": 727,
+      "string": "Manaya's Core"
+    },
+    {
+      "id": 643,
+      "string": "Wonderholme"
+    },
+    {
+      "id": 743,
+      "string": "Wonderholme (Hard)"
+    },
+    {
+      "id": 766,
+      "string": "Shattered Fleet"
+    },
+    {
+      "id": 773,
+      "string": "Ebon Tower (Hard)"
+    },
+    {
+      "id": 775,
+      "string": "Kelsaik's Nest (Hard)"
+    },
+    {
+      "id": 776,
+      "string": "Labyrinth of Terror (Hard)"
+    },
+    {
+      "id": 793,
+      "string": "Akasha's Hideout (Hard)"
+    },
+    {
+      "id": 801,
+      "string": "Nexus Traverse"
+    },
+    {
+      "id": 1022,
+      "string": "Nexus"
+    },
+    {
+      "id": 777,
+      "string": "Channelworks"
+    },
+    {
+      "id": 825,
+      "string": "Balder's Temple (Solo)"
+    },
+    {
+      "id": 511,
+      "string": "The Abscess"
+    },
+    {
+      "id": 811,
+      "string": "The Abscess"
+    },
+    {
+      "id": 810,
+      "string": "Lakan's Prison"
+    },
+    {
+      "id": 450,
+      "string": "Rift's Edge (Hard)"
+    },
+    {
+      "id": 750,
+      "string": "Rift's Edge"
+    },
+    {
+      "id": 887,
+      "string": "Bastion of Lok (Solo)"
+    },
+    {
+      "id": 888,
+      "string": "Sinestral Manor (Solo)"
+    },
+    {
+      "id": 889,
+      "string": "Cultists' Refuge (Solo)"
+    },
+    {
+      "id": 871,
+      "string": "Necromancer Tomb (Solo)"
+    },
+    {
+      "id": 872,
+      "string": "Golden Labyrinth (Solo)"
+    },
+    {
+      "id": 873,
+      "string": "Ebon Tower (Solo)"
+    },
+    {
+      "id": 808,
+      "string": "Sabex Armory (Lv. 62)"
+    },
+    {
+      "id": 809,
+      "string": "Macellarius Catacombs (Lv. 64)"
+    },
+    {
+      "id": 979,
+      "string": "Saravash's Ascent"
+    },
+    {
+      "id": 760,
+      "string": "Kalivan's Dreadnaught"
+    },
+    {
+      "id": 460,
+      "string": "Kalivan's Dreadnaught (Hard)"
+    },
+    {
+      "id": 860,
+      "string": "Kalivan's Challenge"
+    },
+    {
+      "id": 459,
+      "string": "Forsaken Island"
+    },
+    {
+      "id": 759,
+      "string": "Forsaken Island (Hard)"
+    },
+    {
+      "id": 830,
+      "string": "Celestial Arena (Solo)"
+    },
+    {
+      "id": 970,
+      "string": "Ruinous Manor (Hard)"
+    },
+    {
+      "id": 770,
+      "string": "Ruinous Manor"
+    },
+    {
+      "id": 813,
+      "string": "Ghillieglade"
+    },
+    {
+      "id": 713,
+      "string": "Ghillieglade"
+    },
+    {
+      "id": 468,
+      "string": "Shadow Sanguinary (Hard)"
+    },
+    {
+      "id": 768,
+      "string": "Shadow Sanguinary"
+    },
+    {
+      "id": 470,
+      "string": "Manglemire"
+    },
+    {
+      "id": 456,
+      "string": "Timescape (Hard)"
+    },
+    {
+      "id": 756,
+      "string": "Timescape"
+    },
+    {
+      "id": 467,
+      "string": "Demokron Factory (Hard)"
+    },
+    {
+      "id": 767,
+      "string": "Demokron Factory"
+    },
+    {
+      "id": 429,
+      "string": "Vault of Kaprima"
+    },
+    {
+      "id": 454,
+      "string": "Bathysmal Rise (Hard)"
+    },
+    {
+      "id": 754,
+      "string": "Bathysmal Rise"
+    },
+    {
+      "id": 457,
+      "string": "Akeron's Inferno (Hard)"
+    },
+    {
+      "id": 757,
+      "string": "Akeron's Inferno"
+    },
+    {
+      "id": 916,
+      "string": "Sky Cruiser Endeavor (Hard)"
+    },
+    {
+      "id": 716,
+      "string": "Sky Cruiser Endeavor"
+    },
+    {
+      "id": 823,
+      "string": "Sky Cruiser Intrepid"
+    },
+    {
+      "id": 711,
+      "string": "The Abscess (Hard)"
+    },
+    {
+      "id": 611,
+      "string": "The Abscess (Hard)"
+    },
+    {
+      "id": 885,
+      "string": "Dreadspire"
+    },
+    {
+      "id": 886,
+      "string": "Dreadspire: Upper Levels"
+    },
+    {
+      "id": 769,
+      "string": "Lilith's Keep"
+    },
+    {
+      "id": 969,
+      "string": "Lilith's Keep (Hard)"
+    },
+    {
+      "id": 710,
+      "string": "Broken Prison"
+    },
+    {
+      "id": 780,
+      "string": "Velik's Hold"
+    },
+    {
+      "id": 980,
+      "string": "Velik's Hold (Hard)"
+    },
+    {
+      "id": 781,
+      "string": "Velik's Sanctuary"
+    },
+    {
+      "id": 981,
+      "string": "Sanctuary's Ruins (Hard)"
+    },
+    {
+      "id": 985,
+      "string": "Velik's Sanctuary (Hard)"
+    },
+    {
+      "id": 466,
+      "string": "Demon's Wheel"
+    },
+    {
+      "id": 794,
+      "string": "Thaumetal Refinery"
+    },
+    {
+      "id": 994,
+      "string": "Thaumetal Refinery (Hard)"
+    },
+    {
+      "id": 735,
+      "string": "RK-9 Kennel"
+    },
+    {
+      "id": 935,
+      "string": "RK-9 Kennel (Hard)"
+    },
+    {
+      "id": 739,
+      "string": "Red Refuge"
+    },
+    {
+      "id": 939,
+      "string": "Red Refuge (Hard)"
+    },
+    {
+      "id": 720,
+      "string": "Antaroth's Abyss"
+    },
+    {
+      "id": 920,
+      "string": "Antaroth's Abyss (Hard)"
+    },
+    {
+      "id": 434,
+      "string": "Dreadspire"
+    },
+    {
+      "id": 783,
+      "string": "Dark Reach Citadel"
+    },
+    {
+      "id": 983,
+      "string": "Dark Reach Citadel (Hard)"
+    },
+    {
+      "id": 782,
+      "string": "Grotto of Lost Souls"
+    },
+    {
+      "id": 982,
+      "string": "Grotto of Lost Souls (Hard)"
+    },
+    {
+      "id": 444,
+      "string": "Bahaar's Sanctum"
+    },
+    {
+      "id": 445,
+      "string": "Frozen Bahaar's Sanctum"
+    },
+    {
+      "id": 448,
+      "string": "Sanctum of the Fire God"
+    },
+    {
+      "id": 2000,
+      "string": "Rogash's Garden"
+    },
+    {
+      "id": 2001,
+      "string": "Exodor Farmlands"
+    },
+    {
+      "id": 2002,
+      "string": "Iridian Wetlands"
+    },
+    {
+      "id": 2003,
+      "string": "Verrak Fortress"
+    },
+    {
+      "id": 2050,
+      "string": "Core Area"
+    },
+    {
+      "id": 3018,
+      "string": "Dark Reach Citadel (7-person)"
+    },
+    {
+      "id": 3019,
+      "string": "Grotto of Lost Souls (7-person)"
+    },
+    {
+      "id": 3017,
+      "string": "Antaroth's Abyss (7-person)"
+    },
+    {
+      "id": 3001,
+      "string": "Bastion of Lok (Solo)"
+    },
+    {
+      "id": 3002,
+      "string": "Sinestral Manor (Solo)"
+    },
+    {
+      "id": 3003,
+      "string": "Cultists' Refuge (Solo)"
+    },
+    {
+      "id": 3004,
+      "string": "Necromancer Tomb (Solo)"
+    },
+    {
+      "id": 3005,
+      "string": "Golden Labyrinth (Solo)"
+    },
+    {
+      "id": 3006,
+      "string": "Akasha's Hideout (Solo)"
+    },
+    {
+      "id": 3007,
+      "string": "Saleron's Sky Garden (Solo)"
+    },
+    {
+      "id": 3008,
+      "string": "Labyrinth of Terror (Solo)"
+    },
+    {
+      "id": 3009,
+      "string": "Ebon Tower (Solo)"
+    },
+    {
+      "id": 3010,
+      "string": "Kelsaik's Nest (Solo)"
+    },
+    {
+      "id": 3011,
+      "string": "Manaya's Core (Solo)"
+    },
+    {
+      "id": 3101,
+      "string": "Gossamer Vault"
+    },
+    {
+      "id": 3201,
+      "string": "Gossamer Vault (Hard)"
+    },
+    {
+      "id": 3023,
+      "string": "Akalath Quarantine"
+    },
+    {
+      "id": 3026,
+      "string": "Corrupted Skynest"
+    },
+    {
+      "id": 3126,
+      "string": "Corrupted Skynest (Hard)"
+    },
+    {
+      "id": 3027,
+      "string": "Forbidden Arena"
+    },
+    {
+      "id": 3030,
+      "string": "Core Area"
+    },
+    {
+      "id": 3031,
+      "string": "Outer Core District"
+    },
+    {
+      "id": 3034,
+      "string": "Rampaging RK-9 Kennel"
+    },
+    {
+      "id": 3107,
+      "string": "Corrupted RK-9 Kennel"
+    },
+    {
+      "id": 3038,
+      "string": "Hydrangea"
+    },
+    {
+      "id": 3039,
+      "string": "Seren's Garden"
+    },
+    {
+      "id": 3102,
+      "string": "Kalligar's Arena"
+    },
+    {
+      "id": 3202,
+      "string": "Kalligar's Arena (Hard)"
+    },
+    {
+      "id": 3103,
+      "string": "Forbidden Arena"
+    },
+    {
+      "id": 3203,
+      "string": "Forbidden Arena"
+    },
+    {
+      "id": 3036,
+      "string": "Sky Cruiser Endeavor Deck (Extreme)"
+    },
+    {
+      "id": 3104,
+      "string": "Lumikan's Dream"
+    },
+    {
+      "id": 3204,
+      "string": "Lumikan's Dream (Hard)"
+    },
+    {
+      "id": 3206,
+      "string": "Crimson Killing Grounds"
+    },
+    {
+      "id": 3106,
+      "string": "Killing Grounds"
+    },
+    {
+      "id": 3041,
+      "string": "[Ace] RK-9 Kennel"
+    },
+    {
+      "id": 3042,
+      "string": "[Ace] Thaumetal Refinery"
+    },
+    {
+      "id": 3043,
+      "string": "[Ace] Sky Cruiser Endeavor"
+    },
+    {
+      "id": 3044,
+      "string": "[Ace] Ruinous Manor"
+    },
+    {
+      "id": 3040,
+      "string": "Scorching Sky Cruiser"
+    },
+    {
+      "id": 3060,
+      "string": "Hall of the Argon Queen (Hard)"
+    },
+    {
+      "id": 7006,
+      "string": "Ruinweald"
+    },
+    {
+      "id": 2506,
+      "string": "Echoes of Argonea"
+    },
+    {
+      "id": 3051,
+      "string": "Veiled Island of Dawn"
+    },
+    {
+      "id": 435,
+      "string": "Karascha's Lair"
+    },
+    {
+      "id": 3052,
+      "string": "Shrine of the Demon God"
+    },
+    {
+      "id": 3111,
+      "string": "The Veil (Darkan)"
+    },
+    {
+      "id": 3112,
+      "string": "Raging Manaya's Core"
+    },
+    {
+      "id": 3113,
+      "string": "Scorching Akeron's Inferno (10-Man)"
+    },
+    {
+      "id": 3105,
+      "string": "Fusion Laboratory"
+    },
+    {
+      "id": 3205,
+      "string": "Cursed Fusion Laboratory"
+    },
+    {
+      "id": 850,
+      "string": "Withering Dreadspire"
+    }
+  ]
+}
